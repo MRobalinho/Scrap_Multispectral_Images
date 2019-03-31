@@ -1,0 +1,1 @@
+Photos taken on 25-3-2019, with Tetracam (Multi spectral), taken on light effect and based on black

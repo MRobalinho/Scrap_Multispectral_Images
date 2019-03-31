@@ -1,0 +1,1 @@
+Photos taken with Tetracam (Multispect) with no light incident effect
