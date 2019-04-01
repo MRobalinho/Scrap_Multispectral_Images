@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/52832991/import-opencv-on-jupyter-notebook
+
+CMD como administrador
+pip install opencv-python
